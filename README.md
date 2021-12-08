@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on -> coding 
 - 🤔 I’m looking for help with coding 
 - /play trololo
-- 💬 Ask me about 
+- 💬 Ask me about everything you want
 - 📫 How to reach me: where ever you want :laughing: LinkedIn: https://www.linkedin.com/in/ali-semih-avci-a043a715a
 -  🦬 Fun fact: A crocodile cannot stick its tongue out.
 <!--
