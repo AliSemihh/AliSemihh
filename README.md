@@ -1,12 +1,10 @@
 ### Hi there 👋
-/play rumble
-</play nyan/>
+
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning -> coding 
-- !play tada
+
 - 👯 I’m looking to collaborate on -> coding 
 - 🤔 I’m looking for help with coding 
-- /play trololo
 - 💬 Ask me about everything you want
 - 📫 How to reach me: where ever you want :laughing: LinkedIn: https://www.linkedin.com/in/ali-semih-avci-a043a715a
 -  � Fun fact: A crocodile cannot stick its tongue out.
@@ -26,3 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A crocodile cannot stick its tongue out.
 😄 Pronouns: ...
 -->
+/play rumble
+</play nyan/>
+- /play trololo
+- - !play tada
