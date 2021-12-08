@@ -9,7 +9,7 @@
 - /play trololo
 - 💬 Ask me about everything you want
 - 📫 How to reach me: where ever you want :laughing: LinkedIn: https://www.linkedin.com/in/ali-semih-avci-a043a715a
--  🦬 Fun fact: A crocodile cannot stick its tongue out.
+-  � Fun fact: A crocodile cannot stick its tongue out.
 <!--
 **AliSemihh/AliSemihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
