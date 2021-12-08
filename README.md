@@ -1,6 +1,6 @@
 ### Hi there 👋
 /play rumble
-/play nyan
+</play nyan/>
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning -> coding 
 - !play tada
