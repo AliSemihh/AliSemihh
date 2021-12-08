@@ -3,7 +3,7 @@
 /play nyan
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning -> coding 
-- /play tada
+- !play tada
 - 👯 I’m looking to collaborate on -> coding 
 - 🤔 I’m looking for help with coding 
 - /play trololo
